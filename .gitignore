@@ -1,3 +1,9 @@
+.idea
+build
+captures
+.externalNativeBuild
+.cxx
+xcuserdata
 # Android Studio
 /*/build/
 /*/local.properties
